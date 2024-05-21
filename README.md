@@ -16,3 +16,26 @@ BONUS 2:
 Aggiungere funzionalità di autoplay: dopo un certo periodo di tempo (3 secondi) l’immagine attiva dovrà cambiare alla successiva.
 BONUS 3:
 Aggiungere bottoni di start/stop e di inversione del meccanismo di autoplay.
+
+
+javascript
+
+// definisco variabili per selezzionare i tag HTML
+
+//definisco un avribaile per un array (images)
+
+// definisco una variabile (currentIndex)
+
+// Aggiungo elementi al html 
+
+// Funzione per vedere il selettore (active) con item e thumb
+
+    // active immagini grande scelta
+
+    // active immagini piccole scelta
+
+// Gestire il buttone precedente
+
+// Gestire il buttone sucessivo
+
+// Mostrare l'elemento al'inizio
